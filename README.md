@@ -51,8 +51,8 @@ dp、spなどのサイズ数値を定義するリソースです。
 ## res/values/strings.xml
 UIで使用する定型文などを定義するリソースです。
 多言語対応にも利用される
--res/values-en/strings.xml（英語）
--res/values-ja/strings.xml（日本語）
+ res/values-en/strings.xml（英語）
+ res/values-ja/strings.xml（日本語）
 
 ## res/values/styles.xml
 UI の形式と外観を定義するリソースです。
